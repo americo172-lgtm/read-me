@@ -1,13 +1,16 @@
 
 # ASSISTENTE-MZ-IA
-RESUMO
+## Resumo
+
+
 Este trabalho apresenta o projeto final desenvolvido no âmbito da
 formação, com o foco na aplicação prática dos conhecimentos adquiridos.
 Ao longo do documento são apresentados os principais pontos do trabalho,
 a forma como foi desenvolvido e as conclusões alcançadas. No final,
 destaca-se a importância do projeto para o desenvolvimento profissional
 e para a aplicação dos conhecimentos na prática.
-PROJETO FINAL
+
+## Projeto Final
 Título: ASSISTENTE-MZ-IAIdeia em uma frase:
 O assistente mostra que IA é uma ferramenta de apoio ao aprendizado coletivo.
 Estudantes, bem como uma sociedade no seu total, especificamente em Moçambique,
@@ -23,21 +26,23 @@ O que a IA significa para nós?
 IA é uma solução para o nosso tempo de trabalho, permitindo-nos soluções e resoluções com o
 apoio do mesmo para encurtarmos o nosso tempo em várias tarefas e podermos ter um tempo
 disponível para executar outras tarefas.
-1.
-Que problema você quer resolver?
+
+## Que problema você quer resolver?
 Muitos estudantes em Moçambique querem aprender IA, mas não conseguem.
 Os cursos estão em inglês, usam exemplos de outros países, e o estudante fica sozinho sem
 perceber.
 Resultado: o estudante acaba por encontrar grandes dificuldades em finalizar e dar
 continuidade ao projeto, e desta forma acaba desistindo do trabalho.
-2.
-ContextoEste problema acontece em Moçambique, em Maputo, Beira, Nampula e em todo o
+
+## Contexto
+Este problema acontece em Moçambique, em Maputo, Beira, Nampula e em todo o
 país.
 Acontece nas escolas, nas universidades, em casa, com estudantes que só têm telemóvel e
 internet fraca, e que aprendem sozinhos.
 Por isso precisamos de lembrar que IA é uma ferramenta de apoio ao aprendizado coletivo.
-3.
-Descrição do objetoO ASSISTENTE-MZ-IA é um assistente que:Explica IA em português simples
+
+## Descrição do objetoO 
+ASSISTENTE-MZ-IA é um assistente que:Explica IA em português simples
 de MoçambiqueUsa exemplos da nossa vida: machamba, mercado, escola, chapa, agricultura,
 saúdeApoia o estudante a tornar-se mais criativo com a ferramenta e o apoio da IA para
 constituir resoluções de assuntos difíceis para o seu futuroAjuda a detalhar a ideia nos 7 pontos
@@ -48,8 +53,8 @@ Ele apoia como uma ferramenta essencial para a resolução de N problemas e conc
 que são os objetivos finais do projeto dele.
 É como no meu caso: não é a IA que está a fazer o meu trabalho.
 A IA está a apoiar-me a terminar o meu trabalho com sucesso.
-4.
-Que meios você vai usar?
+
+## Que meios você vai usar?
 Português simplesExemplos de MoçambiquePerguntas e respostas pelo telemóvel /
 WhatsAppGitHub para criar a página do projeto e o READMEFerramentas de IA para explicar,
 dar exemplos e organizar a ideiaSem fotografias, sem vídeos.
@@ -70,25 +75,28 @@ Fila no hospital?
 Vamos transformar isso numa ideia de IA.
 "Exemplo 3 - Fazer o projeto:
 Estudante: "Como faço o README?
-"
 Assistente: Mostra o modelo, explica cada parte e apoia a escrever até ficar um projeto que o
 sistema consegue ler.
-6.
+
+## 6 . como o meu produto encaixa
 Como o seu produto se encaixa na nossa vida?
 Encaixa porque o estudante usa no dia a dia, no telemóvel, em casa, na escola ou no trabalho.
 Com o apoio da IA e com o conhecimento da IA, facilita em várias vertentes o aprendizado para
 o vasto elenco de alunos interessados nesta matéria, ajudando-os desta maneira e inspirandoos
 também a fecharem vagas com os diplomas que oferece esta plataforma.
 Porque IA é uma ferramenta de apoio ao aprendizado coletivo.
-7.
-AplicaçõesEscolas e universidades em MoçambiqueCursos online de IAComunidades e centros
-de formaçãoAjuda para professores explicarem IAAjuda para jovens que querem trabalhar com
-tecnologiaPara colaborarEste projeto é para ajudar outras pessoas e para encontrar pessoas
-que queiram colaborar.
+
+## 7.aplicacoes
+Escolas e universidades em MoçambiqueCursos 
+cursos online de IA Comunidades e centros de formação de tecnologias avancadas 
+Ajuda para professores explicarem IA em suas tarefas 
+para jovens que querem trabalhar e desenvolver aptioes avancadas 
 Se tu também trabalhas com IA e vês este projeto, podes colaborar, melhorar, testar com
 estudantes e tornar a ideia realidade, porque IA é uma ferramenta de apoio ao aprendizado
 coletivo.
-Base do ProjetoEste projeto indica essencialmente a formação e o apoio fundamental online
+
+## Base do Projeto
+Este projeto indica essencialmente a formação e o apoio fundamental online
 para aqueles que já têm alguma capacidade de evoluir, não só na utilização básica dos
 WhatsApps, dos Facebooks, etcétera, etcétera, mas sim evoluir constantemente através dos
 vários programas indicados pela IA.
