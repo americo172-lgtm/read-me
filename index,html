@@ -1,0 +1,62 @@
+html<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ASSISTENTE-MZ-IA</title>
+<style>
+body{margin:0;font-family:Arial;background:#0f172a;color:white;text-align:center}
+header{padding:50px 20px;background:linear-gradient(135deg,#2563eb,#7c3aed)}
+h1{font-size:42px;margin:0}
+p{font-size:18px}
+.box{background:white;color:#111;max-width:600px;margin:20px auto;padding:25px;border-radius:15px}
+input{width:90%;padding:14px;border:1px solid #ddd;border-radius:10px;font-size:16px}
+button{background:#2563eb;color:white;border:0;padding:14px 25px;border-radius:10px;font-size:16px;margin-top:12px;cursor:pointer;width:95%}
+#resposta{margin-top:15px;background:#f1f5f9;padding:15px;border-radius:10px;text-align:left}
+.card{display:inline-block;background:#1e293b;padding:15px;margin:8px;border-radius:12px;width:130px}
+footer{padding:20px;opacity:.6}
+</style>
+</head>
+<body>
+<header>
+<h1>ASSISTENTE-MZ-IA 🇲🇿</h1>
+<p>O teu assistente inteligente de Mocambique</p>
+<p>Pergunta qualquer coisa - Negocios, Escola, Internet, Dinheiro</p>
+</header>
+<div class="box">
+<h2>Fala comigo aqui</h2>
+<input id="pergunta" placeholder="Ex: Como ganhar dinheiro online em Mocambique?">
+<br>
+<button onclick="responder()">Perguntar ao Assistente</button>
+<div id="resposta">Ola! Eu sou o ASSISTENTE-MZ-IA. Escreve a tua pergunta em cima e carrega no botao.</div>
+</div>
+<div>
+<div class="card">Escola<br>Explicacoes faceis</div>
+<div class="card">Negocios<br>Ideias para ganhar</div>
+<div class="card">Internet<br>WhatsApp e Redes</div>
+<div class="card">Mocambique<br>Maputo e Provincias</div>
+</div>
+<footer>Feito em Mocambique - ASSISTENTE-MZ-IA - 2026</footer>
+<script>
+function responder(){
+let p=document.getElementById('pergunta').value.toLowerCase();
+let r=document.getElementById('resposta');
+if(p.includes('dinheiro')||p.includes('ganhar')||p.includes('negocio')){
+r.innerHTML="<b>Ideia para Mocambique:</b><br>1. Vender no WhatsApp<br>2. Fazer bolos, sumos ou comida<br>3. Oferecer servicos<br>4. Criar pagina no Facebook<br><br>Comeca pequeno, com o que ja tens!";
+}
+else if(p.includes('escola')||p.includes('estudar')){
+r.innerHTML="<b>Dica de Escola:</b><br>Estuda 30 min por dia sem telemovel. Escreve o que nao percebes e pergunta aqui.";
+}
+else if(p.includes('ola')||p.includes('bom dia')){
+r.innerHTML="<b>Ola camarada!</b><br>Tudo bem? Pergunta-me sobre negocios, escola ou internet.";
+}
+else if(p==""){
+r.innerHTML="Escreve primeiro a tua pergunta.";
+}
+else{
+r.innerHTML="<b>Boa pergunta!</b><br>Em Mocambique, o melhor e comecar pequeno, usar o WhatsApp para vender e aprender todos os dias. Queres uma ideia de negocio ou ajuda na escola?";
+}
+}
+</script>
+</body>
+</html>
