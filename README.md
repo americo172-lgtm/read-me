@@ -41,7 +41,7 @@ Acontece nas escolas, nas universidades, em casa, com estudantes que só têm te
 internet fraca, e que aprendem sozinhos.
 Por isso precisamos de lembrar que IA é uma ferramenta de apoio ao aprendizado coletivo.
 
-## Descrição do objetoO 
+## Descrição do objeto 
 ASSISTENTE-MZ-IA é um assistente que:Explica IA em português simples
 de MoçambiqueUsa exemplos da nossa vida: machamba, mercado, escola, chapa, agricultura,
 saúdeApoia o estudante a tornar-se mais criativo com a ferramenta e o apoio da IA para
@@ -87,7 +87,7 @@ também a fecharem vagas com os diplomas que oferece esta plataforma.
 Porque IA é uma ferramenta de apoio ao aprendizado coletivo.
 
 ## 7.aplicacoes
-Escolas e universidades em MoçambiqueCursos 
+Escolas e universidades em Moçambique Cursos 
 cursos online de IA Comunidades e centros de formação de tecnologias avancadas 
 Ajuda para professores explicarem IA em suas tarefas 
 para jovens que querem trabalhar e desenvolver aptioes avancadas 
